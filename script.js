@@ -26,7 +26,7 @@ var animal = [
 ]
 
 let answer = '';
-let maxWrong = 7;
+let maxWrong = 6;
 let mistakes = 0;
 let guessed = [];
 let wordStatus = null;
